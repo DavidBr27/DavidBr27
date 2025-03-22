@@ -20,7 +20,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/david.brom97/
-[linkedin]: www.linkedin.com/in/david-brom
+[linkedin]: https://www.linkedin.com/in/david-brom97/
 
 
 <!--
