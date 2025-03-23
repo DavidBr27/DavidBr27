@@ -12,6 +12,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/DavidBr27/threat-hunting-scenario-tor/tree/main)**
 - **[Sudden Network Slowdowns](https://github.com/DavidBr27/Sudden-network-slowdowns/tree/main)**
+- **[Incident Response: Brute Force Attempt Detection](https://github.com/DavidBr27/Incident-Response-Brute-Force-Attempt-Detection/tree/main)**
 
 <hr/>
 
