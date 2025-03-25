@@ -16,9 +16,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Incident Response: Email Analysis (Phishing)](https://github.com/DavidBr27/Email-Analysis-Phishing/tree/main)**
 - **[Incident Response: PowerShell Suspicious Web Request](https://github.com/DavidBr27/PowerShell-Suspicious-Web-Request/tree/main)**
 - **[Incident Response: Potential Impossible Travel](https://github.com/DavidBr27/Potential-Impossible-Travel)**
-
-
-
+- **[Threat Hunting Incident: Public Facing IP Detection](https://github.com/DavidBr27/Devices-Accidentally-Exposed-to-the-Internet/tree/main)**
 
 <hr/>
 
